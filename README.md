@@ -44,6 +44,7 @@ Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoC
     <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"
         width="40" height="40" />&nbsp;
 </div>
+
 ---
 
 ### :fire: My Stats :
